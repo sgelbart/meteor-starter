@@ -16,6 +16,7 @@ Maintained by [Meteor Factory](https://meteorfactory.io). Professional Meteor de
 ```
 git clone https://github.com/yogiben/meteor-starter.git myapp
 cd myapp
+meteor npm install --save babel-runtime
 meteor
 ```
 
