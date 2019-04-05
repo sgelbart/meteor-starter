@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/yogiben/meteor-starter#readme",
   "dependencies": {
+    "@babel/runtime": "^7.4.3",
     "babel-runtime": "^6.26.0",
     "bcrypt": "^1.0.3"
   }
